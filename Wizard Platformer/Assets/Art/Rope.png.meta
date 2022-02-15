@@ -109,10 +109,10 @@ TextureImporter:
       name: Rope
       rect:
         serializedVersion: 2
-        x: 26
+        x: 28
         y: 45
-        width: 6
-        height: 10
+        width: 2
+        height: 3
       alignment: 2
       pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
